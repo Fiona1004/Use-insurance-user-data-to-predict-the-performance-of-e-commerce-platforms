@@ -1,0 +1,2 @@
+# Use-insurance-user-data-to-predict-the-performance-of-e-commerce-platforms
+Platform that converts insurance customer covariates into an auditable e-commerce causal sandbox. We simulate prices, promotions, and revenue with ground-truth uplift, enabling coupon/CRM targeting when retail data is limited. Includes warehouse segmentation, DR uplift (DNN vs ML combos), AUUC policy evaluation, and CEO-ready dashboards.
